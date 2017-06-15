@@ -1,0 +1,8 @@
+this is the part of Haule code 2017 march version.
+
+I am using this code for my project.
+
+following things has been tested:
+
+1> get the green's function(G(tau)) for superconducting dos and uses mem to get back this dos 
+2> IHM having same dos as superconductor use that to get the IHM phase diagram.
